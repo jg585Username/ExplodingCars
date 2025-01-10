@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sound_car_drift",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.172245,
+  "name":"sound_car_drift",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sound_car_drift.mp3",
+  "type":0,
+  "volume":0.09,
+}

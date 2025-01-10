@@ -1,0 +1,1 @@
+sprite_index = orange_instruction_button
