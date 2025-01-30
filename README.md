@@ -1,2 +1,2 @@
 Cool drifting and shooting game with customized pixel art.
-![image](https://github.com/user-attachments/assets/a5899c5b-5a0d-49dc-99df-714df289bf40)
+![image](https://github.com/user-attachments/assets/a7ffdd2f-f073-4ceb-87e0-a3d6c8103ee5)
